@@ -1,0 +1,11 @@
+This is me trying to learn github. That's all. 
+I am writing this to see if I am updating the branch only. What have i just learned?
+You make a new branch with the command : git branch nameOfBranch
+go into it automatically by using git -b branch nameOfBranch
+you can check what branch you are on with git status or git branch -a 
+you can change into to a different branch with the command : git checkout otherBranchName
+
+
+
+The branch is a copy of what is in main that you can alter without messing with the main. 
+next I'll see how to merge them. 
