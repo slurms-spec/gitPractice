@@ -9,3 +9,10 @@ you can change into to a different branch with the command : git checkout otherB
 
 The branch is a copy of what is in main that you can alter without messing with the main. 
 next I'll see how to merge them. 
+
+//////////////////
+
+The above has now been merged by switching to the main branch and the command: git merge branchName
+and git push
+
+now I'm back in the newBranch seeing if this is seperate again. 
